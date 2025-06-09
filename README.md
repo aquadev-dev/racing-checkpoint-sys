@@ -4,7 +4,9 @@
 </p>
 
 <h2>About</h2>
-<p>An F1 Race Stars style mechanics-based demo game for one of my assignments with uni.</p>
+<p>
+This project was created as part of an assignment for my game engine architecture module and involves the use of C++ and Blueprints to create a F1/Mario Kart-style experience. The AI and Power-up were mainly coded using blueprints and the checkpoint system was coding using C++. 
+</p>
 
 <h2>Languages and Modules Used</h2>
 <div align=start>
@@ -25,3 +27,6 @@
   <li>Ability to Complete a 3 Lap Race against AI</li>
   <li>A Boost Power Up that gave your car more power for 3 seconds</li>
 </ul>
+
+<h2>Photos</h2>
+

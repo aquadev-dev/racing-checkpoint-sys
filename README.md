@@ -28,5 +28,5 @@ This project was created as part of an assignment for my game engine architectur
   <li>A Boost Power Up that gave your car more power for 3 seconds</li>
 </ul>
 
-<h2>Photos</h2>
-
+<h2>Checkpoint Layout</h2>
+<img src="Picture1.png">
